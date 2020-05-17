@@ -20,8 +20,6 @@ For front-end
 
 For back-end
 * NodeJS with Express
-* React
-* Redux
 * MongoDB with mongoose
 
 ## Features
@@ -38,7 +36,8 @@ https://calm-waters-56067.herokuapp.com/
 * To use app, you need to Login with Google.
 ![Logged In](./img/loggedIn.png)
 
-* To create survey you need credits. Payments are in testing version. Use 4242 4242 4242 4242 card number, valid email, expiration date and any CVV number.
+* To create survey you need credits. Payments are in testing version. Use 4242 4242 4242 4242 card number, valid email, expiration date and any CVV number.  
+
 ![Credits](./img/card.png)
 
 * Create new survey by pressing + button. Email adresses of your clients, must be separated by commas.
