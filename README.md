@@ -37,8 +37,10 @@ https://calm-waters-56067.herokuapp.com/
 ![Logged In](./img/loggedIn.png)
 
 * To create survey you need credits. Payments are in testing version. Use 4242 4242 4242 4242 card number, valid email, expiration date and any CVV number.  
+<p align="center">
+  ![Credits](./img/card.png)
+</p>
 
-![Credits](./img/card.png)
 
 * Create new survey by pressing + button. Email adresses of your clients, must be separated by commas.
 ![New survey](./img/CreateSurvey.png)
