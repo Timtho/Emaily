@@ -41,10 +41,8 @@ https://calm-waters-56067.herokuapp.com/
   <img src="./img/card.png" />
 </p>
 
-![Credits](./img/card.png)
-
 * Create new survey by pressing + button. Email adresses of your clients, must be separated by commas.
-![New survey](./img/Create Survey.png)
+![New survey](./img/createSurvey.png)
 
 * Confirm survey data and send it.
 ![Confirm](./img/confirmSurvey.png)
@@ -56,5 +54,5 @@ https://calm-waters-56067.herokuapp.com/
 ![Feedback](./img/feedback.png)
 
 ## Sources
-This app is based on MERN Stack Tutorial by  on Udemy.  
-link
+This app is based on Node with React: Fullstack Web Development Tutorial by Stephen Grider on Udemy.    
+https://www.udemy.com/course/node-with-react-fullstack-web-development/learn/lecture/7607696#overview
